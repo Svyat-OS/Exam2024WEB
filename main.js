@@ -1,4 +1,4 @@
-let url = "http://exam-2023-1-api.std-900.ist.mospolytech.ru/api";
+let url = "https://edu.std-900.ist.mospolytech.ru/api";
 let key = "668471e1-8f75-419b-a6e3-65bcd8f2201d";
 let countOfPages; //Количество страниц
 let globalListRoutes; //Список маршрутов
