@@ -1,5 +1,5 @@
 let url = "https://edu.std-900.ist.mospolytech.ru/api";
-let key = "668471e1-8f75-419b-a6e3-65bcd8f2201d";
+let key = "ab6605a7-8428-4e58-9110-7a175f8eabbc";
 let countOfPages; //Количество страниц
 let globalListApplications; //Список достопримечательностей
 let globalListRoutes; //Список маршрутов
